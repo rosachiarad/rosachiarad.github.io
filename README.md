@@ -4,7 +4,7 @@ Hi there! I'm Rosachiara 👋
 
 About Me 
 
-🎓 MSc in Applied Mathematics University of study of Bari "Aldo Moro" | IT Technician IISS "Luigi dell'Erba"
+🎓 MSc in Applied Mathematics University of study Bari "Aldo Moro" | IT Technician IISS "Luigi dell'Erba"
 
 Passionate about Machine Learning, Data Science, Deep Learning, and Neural Networks.
 
