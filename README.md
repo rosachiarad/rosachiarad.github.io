@@ -9,5 +9,5 @@ Hi there! I'm Rosachiara 👋
 * Passionate about **Machine Learning**, **Deep Learning**, and **Neural Networks**
 * I’m currently working on Convolutional Neural Networks and Data Analysis.
 
-🌐 Check out my full portfolio: My Website https://rosachiarad.github.io
+# 🌐 Check out my full portfolio: My Website https://rosachiarad.github.io
 
