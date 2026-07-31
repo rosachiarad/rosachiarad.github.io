@@ -2,12 +2,11 @@
 
 Hi there! I'm Rosachiara 👋
 
-About Me 
+###  About Me
 
-🎓 MSc in Applied Mathematics University of study Bari "Aldo Moro" | IT Technician IISS "Luigi dell'Erba"
-
-Passionate about Machine Learning, Data Science, Deep Learning, and Neural Networks.
-
+* 🎓 **MSc in Applied Mathematics** @unibait
+* **Background as an IT Technician** IISS "Luigi dell'Erba", combining practical technical skills with mathematical theory
+* 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **Neural Networks**
 I’m currently working on Convolutional Neural Networks and Data Analysis.
 
 🌐 Check out my full portfolio: My Website https://rosachiarad.github.io
